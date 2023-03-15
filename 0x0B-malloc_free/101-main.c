@@ -28,10 +28,11 @@ int main(void)
 	char **tab;
 
 	tab = strtow("      ALX School         #cisfun      ");
+	
 	if (tab == NULL)
 	{
-	printf("Failed\n");
-	return (1);
+		printf("Failed\n");
+		return (1);
 	}
 	print_tab(tab);
 	return (0);
