@@ -14,7 +14,7 @@
 
 Overall, while learning and working with C can be challenging, many programmers find it fun and rewarding due to its efficiency, control, portability, and wide range of applications.
 
-## Below are the Tasks given to test my proficieny in C programming: ##
+## Below are the Tasks given to test my proficiency in C language: ##
 
 0x00-hello_world
 
